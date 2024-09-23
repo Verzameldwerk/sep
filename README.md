@@ -85,7 +85,7 @@ We maintain a detailed knowledge base that contains tutorials, FAQs, and trouble
 #### **4. Contact Support:**
 For any issues or additional questions, please contact:
 - **Technical Support**: [sayed@verzameldwerk.com](mailto:sayed@verzameldwerk.com)
-- **Program Coordinator**: [marco@verzameldwerk.com](mailto:marco@verzameldwerk.com)
+- **Program Coordinator**: [sayed@verzameldwerk.com](mailto:sayed@verzameldwerk.com)
 
 ---
 
