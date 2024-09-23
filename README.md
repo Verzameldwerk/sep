@@ -104,7 +104,7 @@ Here are some additional resources you may find helpful during the program:
 - **Laracasts**: Learn From the Laravel Masters.  
   [https://laracasts.com](https://laracasts.com) 
 - **Docker**: Master your development tool.  
-  [Docker-Mastery-Guide](https://github.com/ranareehanaslam/Docker-Mastery-Guide)
+  [Docker Mastery Guide](https://github.com/ranareehanaslam/Docker-Mastery-Guide)
 ---
 
 ### **Conclusion**
