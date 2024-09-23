@@ -29,8 +29,7 @@ Below is a list of the primary tools we use:
 #### **How to Access the Tools**
 
 - **GitHub:** If you do not have a GitHub account, create one using your school email for access to shared repositories.
-- **PhpStorm:** Download and install the editor using the link above.
-- Create an account using your [school email](https://www.jetbrains.com/community/education/#students) for access to shared repositories.
+- **PhpStorm:** Download and install the editor using the link above. Create an account using your [school email](https://www.jetbrains.com/community/education/#students) for access to shared repositories.
 - **Microsoft Teams:** Invitations will be sent via email. Please ensure you register with your school email for program communication.
 - **Jira & Basecamp:** You will be added to your project boards by your coordinator.
 - **Docker:** Download and install Docker using the link above.
