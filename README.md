@@ -100,9 +100,9 @@ Here are some additional resources you may find helpful during the program:
 - **Stack Overflow**: A community for developers to ask and answer questions.  
   [https://stackoverflow.com](https://stackoverflow.com)
 - **Symfony Casts**: The Best PHP & Symfony Tutorial.  
-  [https://symfonycasts.com/](https://symfonycasts.com/)
+  [https://symfonycasts.com](https://symfonycasts.com)
 - **Laracasts**: Learn From the Laravel Masters.  
-  [https://laracasts.com/](https://laracasts.com/)
+  [https://laracasts.com](https://laracasts.com) 
 - **Docker**: Master your development tool.  
   [Docker-Mastery-Guide](https://github.com/ranareehanaslam/Docker-Mastery-Guide)
 ---
